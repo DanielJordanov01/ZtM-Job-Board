@@ -11857,6 +11857,20 @@
       "state": "BC",
       "country": "Canada"
     }
+  },
+    {
+      "id": 836,
+      "name": "Daniel Yordanov",
+      "img": "https://bit.ly/2Y6YoKn",
+      "links": {
+        "website": "https://dvyordanov.com/",
+        "github": "https://github.com/DanielJordanov01"
+    },
+      "jobTitle": "Web/Software Developer",
+      "location": {
+        "city": "Harmanli",
+        "country": "Bulgaria"
+    }
   }
 ]
 }
